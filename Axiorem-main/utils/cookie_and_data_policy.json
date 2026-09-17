@@ -1,0 +1,361 @@
+{
+  "sections": [
+    {
+      "id": "purpose-and-scope",
+      "number": 1,
+      "title": "Purpose and Scope",
+      "paragraphs": [
+        "This Cookie & Data Policy explains how Axiorem uses cookies and similar technologies across its public website, application, authenticated product, landing pages, forms, and related online services.",
+        "In this Policy, the term “tracking technologies” is used broadly. It may include cookies, local storage, session storage, pixels, tags, software development kits (SDKs), device identifiers, web beacons, scripts, browser APIs, fingerprinting or similar technologies, and other mechanisms that store information on a device, access information from a device, or observe interaction with a service.",
+        "This Policy supplements the Axiorem Privacy Policy, which explains Axiorem's broader handling of Personal Data."
+      ]
+    },
+    {
+      "id": "what-are-cookies",
+      "number": 2,
+      "title": "What Are Cookies and Similar Technologies?",
+      "paragraphs": [
+        "Cookies are small files or data elements that may be stored by a website on your browser or device. Cookies may be temporary, such as session cookies, or persistent, meaning they remain for a defined period or until deleted.",
+        "Cookies may also be first-party technologies set by Axiorem or third-party technologies set or accessed by an external provider.",
+        "Similar technologies can perform comparable functions without using a conventional browser cookie. These may include local storage, pixels, tags, SDKs, browser APIs, device identifiers, and certain forms of fingerprinting or script-based measurement.",
+        "Axiorem evaluates technologies based on their actual function and purpose rather than relying solely on whether they are technically described as a cookie."
+      ]
+    },
+    {
+      "id": "how-we-use-technologies",
+      "number": 3,
+      "title": "How Axiorem Uses These Technologies",
+      "paragraphs": [
+        "Axiorem may use cookies and similar technologies for a limited range of purposes connected with operating, securing, maintaining, measuring, and improving the Service.",
+        "Axiorem does not deploy non-essential tracking merely because a visitor accesses the website. Where applicable law requires consent, non-essential technologies should not be activated until an appropriate consent signal has been received."
+      ],
+      "bullets": [
+        "Making the website and application function correctly.",
+        "Maintaining authentication and user sessions.",
+        "Supporting security and preventing abuse.",
+        "Remembering user preferences.",
+        "Measuring performance and reliability.",
+        "Understanding how visitors use public pages where permitted.",
+        "Measuring the effectiveness of marketing campaigns where permitted.",
+        "Supporting product or customer analytics where permitted.",
+        "Other purposes described in the Privacy Policy or presented through an applicable consent interface."
+      ]
+    },
+    {
+      "id": "categories-of-technologies",
+      "number": 4,
+      "title": "Categories of Technologies",
+      "paragraphs": [
+        "For transparency and preference-management purposes, Axiorem may classify cookies and similar technologies into categories based on their actual purpose."
+      ],
+      "bullets": [
+        "Strictly Necessary — technologies required to provide a requested service or function, maintain security, authentication, session management, load balancing, fraud prevention, or another purpose that qualifies for an applicable legal exception.",
+        "Functional / Preferences — technologies used to remember preferences or provide enhanced functionality that may not always be strictly necessary.",
+        "Analytics / Measurement — technologies used to measure traffic, page usage, feature adoption, performance, reliability, or similar statistics.",
+        "Advertising / Marketing — technologies used for advertising, campaign measurement, cross-site or cross-context tracking, retargeting, or similar marketing purposes.",
+        "Other / Emerging Technologies — technologies that do not fit neatly within the categories above, including certain SDKs, fingerprinting techniques, pixels, tags, or embedded services."
+      ]
+    },
+    {
+      "id": "strictly-necessary",
+      "number": 5,
+      "title": "Strictly Necessary Technologies",
+      "paragraphs": [
+        "Axiorem may use technologies that are necessary to provide a service or feature requested by a user or to maintain the security and operation of the website or application.",
+        "A technology is not automatically exempt from consent requirements simply because one of its functions is necessary. Where a technology serves multiple purposes, its actual configuration and purposes must be assessed separately."
+      ],
+      "bullets": [
+        "Login and session identifiers.",
+        "Security and CSRF-related tokens.",
+        "Cookie-consent preference storage.",
+        "Load-balancing or routing information.",
+        "Fraud and abuse-prevention signals.",
+        "Accessibility or language preferences where technically necessary.",
+        "Temporary upload or application-session state.",
+        "Other technologies essential to the requested Service."
+      ]
+    },
+    {
+      "id": "functional-preferences",
+      "number": 6,
+      "title": "Preferences and Functional Technologies",
+      "paragraphs": [
+        "Functional technologies may allow Axiorem to remember choices or provide enhanced functionality that is useful but not always strictly necessary to the core Service.",
+        "Where applicable law requires consent for a functional technology, Axiorem will seek the required consent before deploying that technology."
+      ],
+      "bullets": [
+        "Display or interface preferences.",
+        "Non-essential language or regional settings.",
+        "Optional product settings.",
+        "Other preferences explicitly selected by a user."
+      ]
+    },
+    {
+      "id": "analytics",
+      "number": 7,
+      "title": "Analytics and Measurement Technologies",
+      "paragraphs": [
+        "Axiorem may use analytics or similar technologies to understand how visitors and users interact with the Service and to improve performance, reliability, usability, and product design.",
+        "Depending on the actual production implementation, analytics technologies may collect or process information such as:",
+        "The exact analytics technologies used by Axiorem may change as the Service evolves. Where applicable law requires consent for analytics or similar technologies, those technologies will not be activated until the required consent has been obtained."
+      ],
+      "bullets": [
+        "Pages or screens viewed.",
+        "Referring URLs.",
+        "Timestamps.",
+        "Approximate geographic information.",
+        "Browser and device information.",
+        "Interaction events.",
+        "Session duration.",
+        "Navigation paths.",
+        "Feature usage.",
+        "Error and performance information.",
+        "Campaign source information."
+      ]
+    },
+    {
+      "id": "advertising-marketing",
+      "number": 8,
+      "title": "Advertising, Marketing and Cross-Context Tracking",
+      "paragraphs": [
+        "Axiorem may introduce advertising or marketing technologies in the future for purposes such as campaign measurement, referral analysis, retargeting, conversion attribution, advertising personalization, or similar activities.",
+        "Axiorem will not represent advertising or marketing technologies as being in use unless they are actually deployed. Where applicable law requires consent or an opt-out mechanism for advertising, sale, sharing, targeted advertising, or cross-context behavioral advertising, Axiorem will provide the controls required by applicable law.",
+        "A technology will not be classified as strictly necessary merely because it improves marketing or business performance."
+      ]
+    },
+    {
+      "id": "security-fraud",
+      "number": 9,
+      "title": "Security, Fraud Prevention and Abuse Detection",
+      "paragraphs": [
+        "Axiorem may use cookies and similar technologies to protect the website and application against abuse, malicious activity, fraud, credential attacks, automated abuse, denial-of-service activity, account takeover, and other security threats.",
+        "Whether consent is required depends on the technology, its purpose, and applicable law. Security functionality that is genuinely necessary for the operation or security of a requested service may qualify for an applicable exception."
+      ],
+      "bullets": [
+        "Recognizing repeated abusive behavior.",
+        "Associating requests with authenticated or temporary sessions.",
+        "Identifying anomalous traffic.",
+        "Supporting rate limiting.",
+        "Supporting authentication security.",
+        "Assisting with the investigation of security events."
+      ]
+    },
+    {
+      "id": "third-party-technologies",
+      "number": 10,
+      "title": "Third-Party Technologies",
+      "paragraphs": [
+        "Axiorem may use services supplied by third parties that set cookies or use similar technologies.",
+        "A third party may process information independently under its own privacy notice or may process information on Axiorem's behalf as a service provider or processor.",
+        "Axiorem does not represent that a particular third party sets cookies or uses tracking technologies unless that provider is actually deployed within the relevant Service environment."
+      ],
+      "bullets": [
+        "Analytics providers.",
+        "Authentication providers.",
+        "Fraud and security providers.",
+        "Customer-support tools.",
+        "Session or product-analytics tools.",
+        "Marketing or advertising providers.",
+        "Embedded media or content providers.",
+        "Payment or checkout providers."
+      ]
+    },
+    {
+      "id": "technology-inventory",
+      "number": 11,
+      "title": "Cookie and Technology Inventory",
+      "paragraphs": [
+        "Axiorem maintains or intends to maintain an inventory of cookies and similar technologies deployed across relevant websites, product surfaces, environments, and domains.",
+        "Where applicable, the inventory may identify:",
+        "A technology is not classified as strictly necessary solely because it is preferred by a marketing, analytics, or product team to load automatically."
+      ],
+      "bullets": [
+        "Technology name and provider.",
+        "First-party or third-party status.",
+        "Category and purpose.",
+        "Duration.",
+        "Domain, path, or scope.",
+        "Information stored or accessed.",
+        "Whether information is transmitted to a third party.",
+        "Whether consent is required.",
+        "Any legal exception relied upon.",
+        "Relevant privacy disclosures.",
+        "The date the technology was last reviewed."
+      ]
+    },
+    {
+      "id": "consent-management",
+      "number": 12,
+      "title": "Consent and Preference Management",
+      "paragraphs": [
+        "Where consent is legally required, Axiorem will use a consent mechanism designed to allow users to make a clear and meaningful choice regarding non-essential technologies.",
+        "Depending on the implementation and applicable jurisdiction, the consent interface may provide:",
+        "Where consent is required, Axiorem should not load or activate non-essential technologies before receiving the relevant consent signal. Consent should be freely given, specific, informed, and capable of being withdrawn."
+      ],
+      "bullets": [
+        "Accept All.",
+        "Reject All or an equivalent refusal option.",
+        "Manage Preferences.",
+        "Category-level controls.",
+        "A link to this Policy.",
+        "A persistent mechanism for changing preferences later."
+      ]
+    },
+    {
+      "id": "withdrawal",
+      "number": 13,
+      "title": "Consent Withdrawal and Change of Preferences",
+      "paragraphs": [
+        "Where Axiorem relies on consent for a technology, users should be able to change or withdraw that consent without unreasonable difficulty.",
+        "Axiorem may provide a persistent control such as Cookie Preferences, Privacy Settings, or an equivalent mechanism through the footer, account settings, or privacy center.",
+        "When consent is withdrawn, Axiorem should stop activating future non-essential technologies that depend on that consent and stop associated processing where required by law.",
+        "Withdrawing consent for analytics or marketing technologies should not disable strictly necessary security, authentication, or core Service functionality."
+      ]
+    },
+    {
+      "id": "privacy-signals",
+      "number": 14,
+      "title": "Do Not Track, Global Privacy Controls and Similar Signals",
+      "paragraphs": [
+        "Axiorem may receive browser or device privacy signals such as Do Not Track, Global Privacy Control, or other jurisdiction-specific preference signals.",
+        "Where applicable law requires Axiorem to honor a particular signal, Axiorem will do so for the processing to which that signal applies.",
+        "Axiorem will not represent that it honors a signal merely because a browser exposes that signal. Support must be implemented and technically verified."
+      ]
+    },
+    {
+      "id": "legal-bases",
+      "number": 15,
+      "title": "Legal Bases and Jurisdiction-Specific Requirements",
+      "paragraphs": [
+        "Cookie and tracking requirements differ depending on the jurisdiction, the technology used, and its purpose.",
+        "In jurisdictions with rules similar to EU ePrivacy or GDPR-related requirements, non-essential storage or access technologies may require prior consent unless an applicable exception applies.",
+        "For users in the United Kingdom, applicable storage and access requirements may arise under PECR and related guidance. For users in the European Union, applicable ePrivacy rules, national implementation, GDPR, and regulatory guidance may need to be considered together.",
+        "For California and other U.S. jurisdictions, Axiorem may assess whether particular technologies constitute sale, sharing, targeted advertising, or other regulated processing requiring an opt-out or other control.",
+        "For users in India, Axiorem will seek to align relevant tracking practices with applicable privacy requirements and its broader Privacy Policy."
+      ]
+    },
+    {
+      "id": "international-considerations",
+      "number": 16,
+      "title": "International Privacy Considerations",
+      "paragraphs": [
+        "Axiorem may operate as an international SaaS service. As a result, its cookie and tracking practices may be subject to requirements in more than one jurisdiction.",
+        "Axiorem may provide different consent experiences or preference controls for users in different regions where legally necessary.",
+        "The presence or absence of a cookie banner is not, by itself, a complete compliance measure. Axiorem must also ensure that technologies are appropriately classified, consent or opt-out signals are respected, non-essential technologies are blocked where required, withdrawal mechanisms function correctly, and public disclosures match the actual implementation."
+      ]
+    },
+    {
+      "id": "retention-duration",
+      "number": 17,
+      "title": "How Long Technologies Remain",
+      "paragraphs": [
+        "Cookies and similar technologies may be session-based or persistent.",
+        "Session technologies generally end when the relevant browser or application session ends, although the precise behavior may depend on the browser and technical implementation.",
+        "Persistent technologies may remain for a defined period or until they are deleted.",
+        "Axiorem will seek to maintain information about the actual duration of relevant technologies and periodically review whether those durations remain necessary for their stated purposes."
+      ]
+    },
+    {
+      "id": "first-third-party",
+      "number": 18,
+      "title": "First-Party and Third-Party Technologies",
+      "paragraphs": [
+        "A first-party technology is generally set by the Axiorem domain or an Axiorem-controlled subdomain. A third-party technology is generally set or accessed by an external provider.",
+        "Third-party status may affect:",
+        "Relevant third-party technologies and service providers may also be addressed through Axiorem's Privacy Policy, applicable Data Processing Addendum, Subprocessor List, or internal technology inventory."
+      ],
+      "bullets": [
+        "Where information is transmitted.",
+        "Which entity receives information.",
+        "Who controls the relevant processing.",
+        "Applicable consent or opt-out requirements.",
+        "International data transfers.",
+        "Retention and security responsibilities."
+      ]
+    },
+    {
+      "id": "website-vs-product",
+      "number": 19,
+      "title": "Logged-In Product and Public Website",
+      "paragraphs": [
+        "The public Axiorem website and the authenticated Axiorem product may use different technologies.",
+        "The public website may use strictly necessary session and security technologies, consent-management technologies, analytics where enabled, and marketing technologies where enabled and legally permitted.",
+        "The authenticated application may use additional technologies for authentication, session continuity, security, organization or project selection, application preferences, CSRF protection, abuse prevention, and other functions requested by the user.",
+        "A technology used inside an authenticated product is not automatically exempt from consent requirements. Its actual purpose and applicable law must still be considered."
+      ]
+    },
+    {
+      "id": "mobile-tracking",
+      "number": 20,
+      "title": "Mobile and Application Tracking",
+      "paragraphs": [
+        "If Axiorem provides mobile or desktop applications, those applications may use technologies other than browser cookies, including SDKs, device identifiers, local storage, analytics libraries, crash-reporting tools, and push-notification identifiers.",
+        "Where necessary, those technologies may be documented through additional notices or disclosures.",
+        "If Axiorem does not currently provide a particular type of application, references to application tracking should not be interpreted as confirmation that such tracking is currently active."
+      ]
+    },
+    {
+      "id": "changes",
+      "number": 21,
+      "title": "Changes to This Policy",
+      "paragraphs": [
+        "Axiorem may update this Cookie & Data Policy when its website or Service changes, new analytics or security tools are introduced, tracking practices change, advertising or marketing technologies are deployed, applicable laws or regulatory guidance change, or the consent mechanism is updated.",
+        "The Last Updated date at the top of this page identifies the current version. Where a material change affects consent or legal rights, Axiorem may provide additional notice where required."
+      ]
+    },
+    {
+      "id": "rights-contact",
+      "number": 22,
+      "title": "Your Rights and Contact",
+      "paragraphs": [
+        "Depending on your jurisdiction, you may have rights relating to Personal Data associated with cookies and similar technologies, including rights to access, correct, delete, object to, restrict, or otherwise control certain processing.",
+        "For information about broader privacy rights and Personal Data processing, refer to the Axiorem Privacy Policy.",
+        "Questions about cookies, tracking technologies, or privacy preferences may be directed to:",
+        "Where available, you may also change relevant preferences through the Cookie Preferences or equivalent privacy control provided by Axiorem."
+      ],
+      "bullets": [
+        "Axiorem.",
+        "Privacy / Cookie Contact: support@axioremapp.com",
+        "Address: #191, Gobind Nagar, Nayagaon, Dist. Mohali, Punjab, India",
+        "Website: https://www.axioremapp.com"
+      ]
+    },
+    {
+      "id": "browser-controls",
+      "number": 23,
+      "title": "Browser-Level Controls",
+      "paragraphs": [
+        "Most modern browsers provide controls that may allow users to manage cookies and other site data.",
+        "Browser controls may not provide the same level of granularity as Axiorem's own consent or preference mechanisms and may disable functionality necessary for parts of the Service.",
+        "Browser-level controls are not necessarily a substitute for website-level consent or opt-out mechanisms where those mechanisms are required by applicable law."
+      ],
+      "bullets": [
+        "Deleting cookies.",
+        "Blocking cookies.",
+        "Allowing only first-party cookies.",
+        "Blocking third-party cookies.",
+        "Clearing site data.",
+        "Using private-browsing modes.",
+        "Configuring other privacy settings."
+      ]
+    },
+    {
+      "id": "implementation-principles",
+      "number": 24,
+      "title": "Technology and Consent Principles",
+      "paragraphs": [
+        "Axiorem's approach to cookies and similar technologies is based on transparency, purpose limitation, accurate classification, and respect for applicable user choices."
+      ],
+      "bullets": [
+        "Non-essential technologies should not be activated before required consent is obtained.",
+        "Every relevant storage or access technology should be accurately inventoried and classified according to its actual purpose.",
+        "Relevant technologies should be documented as first-party or third-party and evaluated for duration, data access, recipients, transfers, and consent requirements.",
+        "Consent interfaces should not use deceptive design or improperly preselect non-essential choices where prohibited.",
+        "Reject or refusal controls should be reasonably accessible where required.",
+        "Withdrawal of consent should be reasonably easy where consent is relied upon.",
+        "Axiorem should periodically review deployments and third-party technologies to identify new or changed tracking behavior.",
+        "Public disclosures should remain consistent with the technologies actually deployed."
+      ]
+    }
+  ]
+}

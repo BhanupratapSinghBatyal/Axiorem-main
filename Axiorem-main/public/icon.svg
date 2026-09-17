@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96pt" height="96pt" viewBox="110 348 96 96">
+<defs>
+<clipPath id="clip-0">
+<path clip-rule="nonzero" d="M 115.5 402 L 205.5 402 L 205.5 411 L 115.5 411 Z M 115.5 402 "/>
+</clipPath>
+</defs>
+<rect x="110" y="348" width="96" height="96" rx="16" ry="16" fill="rgb(0%, 0%, 0%)"/>
+<path fill-rule="nonzero" fill="rgb(95.689392%, 95.689392%, 96.078491%)" fill-opacity="1" d="M 151.5 369 L 160.5 369 L 160.5 391.5 L 147 423 L 129 423 Z M 151.5 369 "/>
+<path fill-rule="nonzero" fill="rgb(44.309998%, 44.309998%, 47.839355%)" fill-opacity="1" d="M 160.5 369 L 169.5 369 L 192 423 L 174 423 L 160.5 391.5 Z M 160.5 369 "/>
+<g clip-path="url(#clip-0)">
+<path fill-rule="nonzero" fill="rgb(1.959229%, 1.959229%, 1.959229%)" fill-opacity="1" d="M 115.5 402.75 L 205.5 402.75 L 205.5 410.851562 L 115.5 410.851562 Z M 115.5 402.75 "/>
+</g>
+<path fill-rule="nonzero" fill="rgb(14.509583%, 38.819885%, 92.158508%)" fill-opacity="1" d="M 134.851562 402.75 L 186.148438 402.75 L 186.148438 403.648438 L 134.851562 403.648438 Z M 134.851562 402.75 "/>
+</svg>
